@@ -39,7 +39,7 @@ To read the narrative version of the analysis:
 
 ## **Summary of Findings**
 
-Silver still reacts to gold in the short term — but the market underneath is changing.
+Silver still reacts to gold in the short term - but the market underneath is changing.
 
 Key takeaways include:
 
