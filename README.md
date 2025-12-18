@@ -19,7 +19,7 @@ These methods help answer a core question:
 
 ---
 
-## 🔗 **Google Colab Notebook (Full Code)**
+## 🔗 **Google Colab Notebook**
 
 All code used in this analysis is available here:
 
@@ -37,22 +37,11 @@ To read the narrative version of the analysis:
 
 ---
 
-## **Repository Structure**
-
-```
-/data        -> (optional) datasets used for analysis  
-/notebooks   -> exported .ipynb notebooks (if added)
-/figures     -> generated charts  
-README.md    -> this file  
-```
-
----
-
 ## **Summary of Findings**
 
 Silver still reacts to gold in the short term — but the market underneath is changing.
 
-Key takeaways include (from the report ):
+Key takeaways include:
 
 * Industrial demand accounts for **~67%** of total silver usage.
 * **Solar demand** has grown more than **7,000%** since early 2000s.
