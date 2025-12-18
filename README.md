@@ -1,8 +1,3 @@
-Here’s a clean, polished **README** you can paste directly into your GitHub repo.
-It briefly explains the purpose of the project, summarizes the analysis (based on your PDF ), and includes both the Colab notebook and Substack article links.
-
----
-
 # **Is Silver Still Just Gold’s Shadow? — Analysis Repository**
 
 This repository contains the full code and data workflow behind my research article:
