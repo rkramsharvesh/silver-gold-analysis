@@ -1,10 +1,10 @@
-# **Is Silver Still Just Gold’s Shadow? — Analysis Repository**
+# **Is Silver Still Just Gold’s Shadow? - Analysis Repository**
 
 This repository contains the full code and data workflow behind my research article:
 
 **“Is Silver Still Just Gold’s Shadow? A 20-Year Story of Industrial Demand, Tightening Supply, and What Comes Next.”**
 
-The analysis explores how silver’s role in global markets has evolved over the last two decades — particularly the rising dominance of **industrial demand**, persistent **physical deficits**, and the slow, uneven process of silver decoupling from gold-driven price behavior.
+The analysis explores how silver’s role in global markets has evolved over the last two decades - particularly the rising dominance of **industrial demand**, persistent **physical deficits**, and the slow, uneven process of silver decoupling from gold-driven price behavior.
 
 The statistical work includes:
 
