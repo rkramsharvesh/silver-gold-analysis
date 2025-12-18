@@ -26,8 +26,6 @@ All code used in this analysis is available here:
 👉 **Colab Notebook:**
 [https://colab.research.google.com/drive/1buwphPvX_hPCyndMhAoxe8D1Z_s0grz7?usp=sharing](https://colab.research.google.com/drive/1buwphPvX_hPCyndMhAoxe8D1Z_s0grz7?usp=sharing)
 
-You can open it freely, run the cells yourself, and upload the dataset to reproduce the results.
-
 ---
 
 ## 🔗 **Published Article on Substack**
